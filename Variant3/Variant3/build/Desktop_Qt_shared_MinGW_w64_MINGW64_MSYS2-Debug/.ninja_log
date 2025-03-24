@@ -1,0 +1,15 @@
+# ninja log v6
+12	153	7640560696802726	Variant3_autogen/timestamp	f013435c01aedc64
+12	153	7640560696802726	C:/Users/marik/Desktop/Variant3/Variant3/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/Variant3_autogen/mocs_compilation.cpp	f013435c01aedc64
+689	2617	7640223911106872	CMakeFiles/Variant3.dir/main.cpp.obj	91bc60b7734d60a
+4816	4982	7640560744916673	Variant3.exe	7b383e87e2da23c2
+12	153	7640560696802726	Variant3_autogen/mocs_compilation.cpp	f013435c01aedc64
+12	153	7640560696802726	C:/Users/marik/Desktop/Variant3/Variant3/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/Variant3_autogen/timestamp	f013435c01aedc64
+686	2642	7640223911076849	CMakeFiles/Variant3.dir/Variant3_autogen/mocs_compilation.cpp.obj	a310c8d442e80a89
+153	4815	7640560698292136	CMakeFiles/Variant3.dir/mainwindow.cpp.obj	2a8ad7fb10d0637d
+31	149	7640563871487013	Variant3_autogen/timestamp	f013435c01aedc64
+31	149	7640563871487013	Variant3_autogen/mocs_compilation.cpp	f013435c01aedc64
+31	149	7640563871487013	C:/Users/marik/Desktop/Variant3/Variant3/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/Variant3_autogen/timestamp	f013435c01aedc64
+31	149	7640563871487013	C:/Users/marik/Desktop/Variant3/Variant3/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/Variant3_autogen/mocs_compilation.cpp	f013435c01aedc64
+150	4734	7640563872683543	CMakeFiles/Variant3.dir/mainwindow.cpp.obj	2a8ad7fb10d0637d
+4734	4904	7640563918533938	Variant3.exe	7b383e87e2da23c2
